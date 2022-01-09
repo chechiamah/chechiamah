@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chechiamah
-- 👀 I’m interested in data analytics, digital design, and 
-- 🌱 I’m currently learning how to become a UX Designer. 
+- 👀 I’m interested in data analytics, digital design, and computer graphics.  
+- 🌱 I’m currently UX Designer but developing an iMessage app. 
 - 💞️ I’m looking to collaborate on my MAD LIBZ project. 
 - 📫 How to reach me is my email: thechechiamah@gmail.com
 
