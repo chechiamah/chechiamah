@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chechiamah
 - 👀 I’m interested in data analytics, digital design, and computer graphics.  
 - 🌱 I’m currently UX Designer but developing an iMessage app. 
-- 💞️ I’m looking to collaborate on my MAD LIBZ project. 
+- 💞️ I’m looking to collaborate on my iMessage extension app. 
 - 📫 How to reach me is my email: thechechiamah@gmail.com
 
 <!---
