@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chechiamah
-- 👀 I’m interested in data analytics, digital design, and computer graphics.  
+- **✨ Multidisciplinary Designer & Creative Technologist**  
+- 👀 I’m interested in data analytics, digital design, mapping, and computer graphics.  
 - 🌱 I am currently making art for my design service called Raspy Giraffe (@raspygiraffe). 
-- 💞️ I’m open to clients for UX Design, Mixed Media, Graphic Design, Creative Coding and GIS. 
+- 💞️ **Services:** UX/UI Design, Mixed Media, Graphic Design, GIS & Generative Art  
 - 📫 How to reach me is my biz email theraspygiraffe@gmail.com
 
 <!---
